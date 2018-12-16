@@ -1,3 +1,11 @@
+---
+layout: default
+title: Text Editor
+parent: Inputs
+nav_order: 6
+---
+
+
 # appup-editor 
 
 Appup Editor

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Quill JS
+parent: Inputs
+nav_order: 12
+---
+
 # wysiwyg 
 
 import "quill/dist/quill.bubble.css"; 

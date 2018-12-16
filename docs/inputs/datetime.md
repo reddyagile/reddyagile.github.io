@@ -1,3 +1,11 @@
+---
+layout: default
+title: Date and Time
+parent: Inputs
+nav_order: 5
+---
+
+
 # appup-datetime 
 
 Appup DateTime picker with capability to show only date, time or date & time 

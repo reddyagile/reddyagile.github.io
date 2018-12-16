@@ -1,3 +1,10 @@
+---
+layout: default
+title: Multi select
+parent: Inputs
+nav_order: 9
+---
+
 # appup-multiselect 
 
 Appup Multiselect to load static options or dynamic options from API call 

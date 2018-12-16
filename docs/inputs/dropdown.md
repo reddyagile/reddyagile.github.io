@@ -1,3 +1,10 @@
+---
+layout: default
+title: Select
+parent: Inputs
+nav_order: 2
+---
+
 # appup-dropdown 
 
 Appup Dropdown to load static options or dynamic options from API call

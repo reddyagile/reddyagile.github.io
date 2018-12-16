@@ -1,3 +1,11 @@
+---
+layout: default
+title: Textarea
+parent: Inputs
+nav_order: 3
+---
+
+
 # appup-textarea 
 
 Appup Textarea

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tags
+parent: Inputs
+nav_order: 11
+---
+
 # appup-tags 
 
 Appup Tag component to load static options or dynamic options from API call

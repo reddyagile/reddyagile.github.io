@@ -1,3 +1,10 @@
+---
+layout: default
+title: Input
+parent: Inputs
+nav_order: 1
+---
+
 # appup-input 
 
 Appup Input - The single component which should be used to render any form element for

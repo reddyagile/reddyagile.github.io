@@ -1,3 +1,10 @@
+---
+layout: default
+title: File
+parent: Inputs
+nav_order: 13
+---
+
 # appup-file 
 
 Appup File - Can select any file or specific file with provided extensions

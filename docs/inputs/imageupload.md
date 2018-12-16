@@ -1,3 +1,10 @@
+---
+layout: default
+title: Image upload
+parent: Inputs
+nav_order: 8
+---
+
 # appup-imageupload 
 
 Appup Image Uploader - Can upload an image to the provided url 

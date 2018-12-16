@@ -1,3 +1,11 @@
+---
+layout: default
+title: Checkbox
+parent: Inputs
+nav_order: 4
+---
+
+
 # appup-checkbox 
 
 Appup Checbox - Can be used for single or group checboxes 

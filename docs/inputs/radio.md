@@ -1,3 +1,11 @@
+---
+layout: default
+title: Radio
+parent: Inputs
+nav_order: 10
+---
+
+
 # appup-radio 
 
 Appup Radio - Can be used for single or group radios 
