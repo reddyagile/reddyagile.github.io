@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Not Using
+---
+
 # appup-accordion 
 
 Accordion component to group content with only one displayed at a time 

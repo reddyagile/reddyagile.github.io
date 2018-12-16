@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Inputs
-nav_order: 1
+parent: Using
+nav_order: 5
 has_children: true
 permalink: /docs/inputs
 ---

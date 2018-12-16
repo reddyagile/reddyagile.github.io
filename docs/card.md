@@ -1,3 +1,10 @@
+---
+layout: default
+title: Card
+parent: Using
+nav_order: 1
+---
+
 # appup-card 
 
 Appup Gridview component which can be used to display Grid items 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Chart
+parent: Using
+nav_order: 2
+---
+
 # chart 
 
 Load funnel chart module 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Form
+parent: Using
+nav_order: 3
+---
+
 # appup-form 
 
 Appup Form component rendering form elements based upon provided schema. Includes validation rules as well.
