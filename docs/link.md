@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-link 
 
 Appup Link 

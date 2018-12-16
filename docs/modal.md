@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-modal 
 
 Appup Modal with option to display message, confirm or form

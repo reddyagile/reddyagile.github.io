@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-navbar 
 
 Appup Navbar with capabilty to render controls either left or right or both

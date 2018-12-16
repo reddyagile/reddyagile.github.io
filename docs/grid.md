@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-grid 
 
 Appup Gridview component which can be used to display Grid items 

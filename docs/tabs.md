@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-tabs 
 
 Tab component to group content with only one displayed at a time 

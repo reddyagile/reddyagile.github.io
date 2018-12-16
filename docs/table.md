@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-table 
 
 Appup Table component which can be used to display list data with custom action. 

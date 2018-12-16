@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-listgrid 
 
 Appup ListGrid 

@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-alert 
 
 Appup Alert component which can be used to display success error messages 

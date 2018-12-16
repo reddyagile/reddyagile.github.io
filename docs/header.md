@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-header 
 
 Appup Header with capabilty to render controls either left or right or both

@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # app-html 
 
 Component to display HTML content that is provided 

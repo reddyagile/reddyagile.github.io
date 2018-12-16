@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-code 
 
 Appup Code component to provide code in Html, Js or CSS 

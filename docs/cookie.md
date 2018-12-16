@@ -1,3 +1,7 @@
+---
+layout: default
+parent: Not Using
+---
 # appup-cookie 
 
 <u>This is not a valid component.</u> Do not use appup-cookie to manage cookies.
